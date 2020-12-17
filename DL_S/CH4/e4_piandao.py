@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pylab as plt
-#wrong
+#wrong, it does not work.
 def func_1(x):
     if x.ndim == 1:
         return np.sum(x**2)
